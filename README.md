@@ -1,10 +1,10 @@
 # PastramiPC
 
-*This is the (currently) open sourced (and unfinished) website code for (pastramipc.com)[pastramipc.com]*
+*This is the (currently) open sourced (and unfinished) website code for [pastramipc.com](pastramipc.com)*
 
 Hi! You can call me Pastra, Pastrami, Pastramicity, or you can just call me Chase. I run a small gig where I build the computer you need. 
 
-You can reach me at (pastramipc@gmail.com)[pastramipc@gmail.com]
+You can reach me at [pastramipc@gmail.com](pastramipc@gmail.com)
 
 - Let me know what you need and we can set up an appointment on zoom, over the phone, or over email.
 - Once we know what you need, I'll give you a quote.
